@@ -1,0 +1,10 @@
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\bin\Debug\E3-EP1.exe.config
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\bin\Debug\E3-EP1.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\bin\Debug\E3-EP1.pdb
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3-EP1.csprojAssemblyReference.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3_EP1.Form1.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3_EP1.Properties.Resources.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3-EP1.csproj.GenerateResource.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3-EP1.csproj.CoreCompileInputs.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3-EP1.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Examenes\Examenes\E3-EP1\E3-EP1\obj\Debug\E3-EP1.pdb
